@@ -1,1 +1,1 @@
-# Disaster-Tweet-Classification--LogReg-and-Naive-Bayes
+# Disaster-Tweet-Classification-LogReg-and-Naive-Bayes
